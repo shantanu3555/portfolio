@@ -1,0 +1,52 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.logo img {
+    width: 100px;
+    height: auto;
+}
+
+.hero-text h1 {
+    margin: 0;
+}
+
+.about-me,
+.skills,
+.projects,
+.contact {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.projects {
+    background-color: #f4f4f4;
+}
+
+.project {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
